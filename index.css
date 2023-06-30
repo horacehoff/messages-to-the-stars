@@ -105,6 +105,9 @@ body {
     #emitting-year {
         display: inline;
     }
+    .separator {
+        display: none;
+    }
 }
 
 @media screen and (max-width: 650px) {
