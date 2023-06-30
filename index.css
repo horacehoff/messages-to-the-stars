@@ -70,8 +70,8 @@ html, body {
     color: white;
     font-family: 'Inconsolata', monospace;
     position: relative;
-    bottom: -80px;
-    margin: 0;
+    bottom: -100px;
+    margin-bottom: 10px;
     padding: 0;
     width: fit-content;
     height:fit-content;
