@@ -116,10 +116,10 @@ body {
     }
     .subtitle {
         top: calc(20vw);
-        font-size: 11px;
+        font-size: 12px;
     }
     .msg-list {
         top: calc(22vw);
-        font-size: 11px;
+        font-size: 12px;
     }
 }
