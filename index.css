@@ -102,16 +102,16 @@ body {
     .date-break {
         display: block;
     }
-    #emitting-year, #star, #year {
+    #star, #year {
         display: inline;
     }
     .separator {
         display: none;
     }
-    #emitting-year#elemental-msg {
-        display: inline-block; !important;
-        width: 50px !important;
-    }
+    /*#emitting-year#elemental-msg {*/
+    /*    display: inline-block; !important;*/
+    /*    width: 50px !important;*/
+    /*}*/
 }
 
 @media screen and (max-width: 650px) {
