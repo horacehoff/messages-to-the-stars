@@ -33,7 +33,7 @@ body {
     left: 0;
     margin-left: calc(50% - 470px)
 }
-#emitting-year {
+#emitting-year, #elemental-msg {
     display: inline-block;
     width: 160px;
     overflow-x: scroll;
@@ -82,7 +82,7 @@ body {
         font-size: 14px;
         margin-left: calc(50% - 390px)
     }
-    #emitting-year {
+    #emitting-year, #elemental-msg {
         width: 120px;
     }
     #star {
@@ -102,16 +102,12 @@ body {
     .date-break {
         display: block;
     }
-    #star, #year {
+    #emitting-year, #star, #year {
         display: inline;
     }
     .separator {
         display: none;
     }
-    /*#emitting-year#elemental-msg {*/
-    /*    display: inline-block; !important;*/
-    /*    width: 50px !important;*/
-    /*}*/
 }
 
 @media screen and (max-width: 650px) {
