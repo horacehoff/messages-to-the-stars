@@ -105,6 +105,9 @@ body, html {
     .date-break {
         display: block;
     }
+    #emitting-year {
+        display: inline;
+    }
 }
 
 @media screen and (max-width: 650px) {
