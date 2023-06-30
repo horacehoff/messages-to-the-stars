@@ -83,7 +83,11 @@
             let traveledDistance = calculateTraveledDistance(timeDifference).dividedBy('1000')
             const emitting_year = new Date(0);
             emitting_year.setUTCSeconds(specificTimestamp.toString())
-            msglist.innerHTML += "<li><span id='emitting-year'>"+obj[i].Message+"</span> ==>  <span id='star'>"+obj[i].Designation+star+"</span><br class='date-break'/>  <span class='separator'>||</span> "+emitting_year.getFullYear()+" [<span id='progress-"+i+"'></span>] <span id='year'>"+convertDecimalDate(Number(obj[i].Distance)+Number(emitting_year.getFullYear())).getFullYear()+"</span><span class='separator'>||</span><br class='date-break'/> "+percentage.toFixed(1)+"% ("+traveledDistance.toExponential(9)+"km)</li><br class='date-break'/>"
+            let emitting_year_class = 'emitting-year'
+            if (obj[i].Message === "A Simple Response to an Elemental Message") {
+                emitting_year_class = 'emitting-year elemental-msg'
+            }
+            msglist.innerHTML += "<li><span id='"+emitting_year_class+"'>"+obj[i].Message+"</span> ==>  <span id='star'>"+obj[i].Designation+star+"</span><br class='date-break'/>  <span class='separator'>||</span> "+emitting_year.getFullYear()+" [<span id='progress-"+i+"'></span>] <span id='year'>"+convertDecimalDate(Number(obj[i].Distance)+Number(emitting_year.getFullYear())).getFullYear()+"</span><span class='separator'>||</span><br class='date-break'/> "+percentage.toFixed(1)+"% ("+traveledDistance.toExponential(9)+"km)</li><br class='date-break'/>"
             let current_percent = percentage.toFixed(1);
             for (let n = 0; n < 20; n++) {
                 if (current_percent < (n+1)*5) {

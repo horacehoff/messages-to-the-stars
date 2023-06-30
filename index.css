@@ -108,6 +108,10 @@ body {
     .separator {
         display: none;
     }
+    .elemental-msg {
+        display: inline-block; !important;
+        width: 110px;
+    }
 }
 
 @media screen and (max-width: 650px) {
