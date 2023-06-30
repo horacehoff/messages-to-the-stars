@@ -35,7 +35,8 @@ html, body {
     padding: 0;
     white-space: nowrap;
     left: 0;
-    margin-left: calc(50% - 470px)
+    margin-left: calc(50% - 470px);
+    width: fit-content;
 }
 #emitting-year, #elemental-msg {
     display: inline-block;
