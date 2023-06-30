@@ -103,4 +103,10 @@ body {
     .title {
         font-size: 1.6vw;
     }
+    .subtitle {
+        top: calc(20vw);
+    }
+    .msg-list {
+        top: calc(22vw);
+    }
 }
