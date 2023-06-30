@@ -108,9 +108,9 @@ body {
     .separator {
         display: none;
     }
-    .elemental-msg {
+    #elemental-msg {
         display: inline-block; !important;
-        width: 110px;
+        width: 110px !important;
     }
 }
 
