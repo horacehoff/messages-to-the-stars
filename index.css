@@ -14,7 +14,7 @@ html, body {
     color: white;
     font-size: 1vw;
     font-family:monospace;
-    position: absolute;
+    position: relative;
     margin-left: 50%;
     transform: translate(calc(-50% - 7px));
 }
@@ -22,7 +22,7 @@ html, body {
     color: #cbcbcb;
     font-family: 'Inconsolata', monospace;
     position: relative;
-    top: calc(13vw);
+    top: 0;
     font-size: 16px;
     text-align: center;
     width: fit-content;
@@ -32,7 +32,7 @@ html, body {
     list-style-type: none;
     color: white !important;
     position: relative;
-    top: calc(15vw);
+    top: 15px;
     font-family: 'Inconsolata', monospace;
     padding: 0;
     white-space: nowrap;
@@ -123,12 +123,10 @@ html, body {
         font-size: 1.6vw;
     }
     .subtitle {
-        top: calc(20vw);
         font-size: 12px;
         white-space: break-spaces;
     }
     .msg-list {
-        top: calc(22vw);
         font-size: 13px;
     }
 }
