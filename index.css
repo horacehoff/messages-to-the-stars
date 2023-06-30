@@ -125,6 +125,8 @@ html, body {
 @media screen and (max-width: 650px) {
     .title {
         font-size: 1.6vw;
+        transform: translate(calc(-50% - 135px));
+
     }
     .subtitle {
         font-size: 12px;
