@@ -108,5 +108,6 @@ body {
     }
     .msg-list {
         top: calc(22vw);
+        font-size: 11px;
     }
 }
