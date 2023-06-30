@@ -73,12 +73,14 @@ body {
 .just-mango:hover {
     text-decoration: underline;
 }
+.date-break {
+    display: none;
+}
 
 @media screen and (max-width: 980px) {
     .msg-list {
         font-size: 14px;
         margin-left: calc(50% - 390px)
-
     }
     #emitting-year {
         width: 120px;
@@ -96,6 +98,9 @@ body {
         margin: 0;
         padding: 0;
         left: 0;
+    }
+    .date-break {
+        display: block;
     }
 }
 
