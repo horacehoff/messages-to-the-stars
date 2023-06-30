@@ -108,7 +108,7 @@ body {
     .separator {
         display: none;
     }
-    #elemental-msg {
+    #emitting-year#elemental-msg {
         display: inline-block; !important;
         width: 50px !important;
     }
