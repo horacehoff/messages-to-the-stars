@@ -1,0 +1,169 @@
+[
+  {
+    "Star": "Messier 13",
+    "Designation": "NGC 6205",
+    "Date sent": "November 16, 1974",
+    "Arrival date": "approx. 25974",
+    "Message": "Arecibo message",
+    "Distance": "22200"
+  },
+  {
+    "Star": "16 Cyg A",
+    "Designation": "HD 186408",
+    "Date sent": "May 24, 1999",
+    "Arrival date": "November 2069",
+    "Distance": "68.92"
+  },
+  {
+    "Star": "15 Sge",
+    "Designation": "HD 190406",
+    "Date sent": "June 30, 1999",
+    "Arrival date": "February 2057",
+    "Message": "Cosmic Call 1",
+    "Distance": "57.80"
+  },
+  {
+    "Star": "?",
+    "Designation": "HD 178428",
+    "Date sent": "June 30, 1999",
+    "Arrival date": "October 2067",
+    "Message": "Cosmic Call 1",
+    "Distance": "69.90"
+  },
+  {
+    "Star": "Gl 777",
+    "Designation": "HD 190360",
+    "Date sent": "July 1, 1999",
+    "Arrival date": "April 2051",
+    "Message": "Cosmic Call 1",
+    "Distance": "51.7215"
+  },
+  {
+    "Star": "?",
+    "Designation": "HD 197076",
+    "Date sent": "August 29, 2001",
+    "Arrival date": "February 2070",
+    "Message": "Teen Age Message",
+    "Distance": "68.32"
+  },
+  {
+    "Star": "47 UMa",
+    "Designation": "HD 95128",
+    "Date sent": "September 3, 2001",
+    "Arrival date": "July 2047",
+    "Message": "Teen Age Message",
+    "Distance": "45.30"
+  },
+  {
+    "Star": "37 Gem",
+    "Designation": "HD 50692",
+    "Date sent": "September 3, 2001",
+    "Arrival date": "December 2057",
+    "Message": "Teen Age Message",
+    "Distance": "56.9778"
+  },
+  {
+    "Star": "?",
+    "Designation": "HD 126053",
+    "Date sent": "September 3, 2001",
+    "Arrival date": "January 2059",
+    "Message": "Teen Age Message",
+    "Distance": "56.95"
+  },
+  {
+    "Star": "?",
+    "Designation": "HD 76151",
+    "Date sent": "September 4, 2001",
+    "Arrival date": "May 2057",
+    "Message": "Teen Age Message",
+    "Distance": "55.8"
+  },
+  {
+    "Star": "?",
+    "Designation": "HD 193664",
+    "Date sent": "September 4, 2001",
+    "Arrival date": "January 2059",
+    "Message": "Teen Age Message",
+    "Distance": "57.02"
+  },
+  {
+    "Star": "?",
+    "Designation": "HIP 4872",
+    "Date sent": "July 6, 2003",
+    "Arrival date": "April 2036",
+    "Message": "Cosmic Call 2",
+    "Distance": "32.158"
+  },
+  {
+    "Star": "?",
+    "Designation": "HD 245409",
+    "Date sent": "July 6, 2003",
+    "Arrival date": "August 2040",
+    "Message": "Cosmic Call 2",
+    "Distance": "37.2"
+  },
+  {
+    "Star": "55 Cnc",
+    "Designation": "HD 75732",
+    "Date sent": "July 6, 2003",
+    "Arrival date": "May 2044",
+    "Message": "Cosmic Call 2",
+    "Distance": "41"
+  },
+  {
+    "Star": "?",
+    "Designation": "HD 10307",
+    "Date sent": "July 6, 2003",
+    "Arrival date": "September 2044",
+    "Message": "Cosmic Call 2",
+    "Distance": "41.2"
+  },
+  {
+    "Star": "47 UMa",
+    "Designation": "HD 95128",
+    "Date sent": "July 6, 2003",
+    "Arrival date": "May 2049",
+    "Message": "Cosmic Call 2",
+    "Distance": "45.30"
+  },
+  {
+    "Star": "Polaris",
+    "Designation": "HIP 11767",
+    "Date sent": "February 4, 2008",
+    "Arrival date": 2439,
+    "Message": "Across the Universe",
+    "Distance": "431"
+  },
+  {
+    "Star": "Gliese 581",
+    "Designation": "HIP 74995",
+    "Date sent": "October 9, 2008",
+    "Arrival date": 2029,
+    "Message": "A Message From Earth",
+    "Distance": "20.3"
+  },
+  {
+    "Star": "Gliese 581",
+    "Designation": "HIP 74995",
+    "Date sent": "August 28, 2009",
+    "Arrival date": 2030,
+    "Message": "Hello From Earth",
+    "Distance": "20.3"
+  },
+  {
+    "Star": "Polaris",
+    "Designation": "HIP 11767",
+    "Date sent": "October 10, 2016",
+    "Arrival date": 2450,
+    "Message": "A Simple Response to an Elemental Message",
+    "Distance": "431"
+  },
+  {
+    "Star": "Luyten's Star",
+    "Designation": "HIP 36208",
+    "Date sent": "May 16, 2018",
+    "Arrival date": "March 2030",
+    "Message": "Sónar Calling GJ273b",
+    "Distance": "12.348"
+  }
+]
